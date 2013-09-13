@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HealthGPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<<<<<<< HEAD
+    <string name="title_activity_map_view">MapViewActivity</string>
+=======
+    <string name = "button_text">Button</string>
+>>>>>>> 508ba387ad5f880db527ee9b8d9a6c17a7bdd720
+
+</resources>
